@@ -4,6 +4,7 @@ Linux ou Mac:
 git clone https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6
 git clone https://android.googlesource.com/platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6
 
+Il arrive que certaines personnes rencontrent des problèmes avec la version 4.6, si c'est le cas passez en 4.3.
 
 Déclarer les varables d'environnement
 =====================================
